@@ -2,4 +2,5 @@
 deploying streamlit app on amazon ec2
 
 build image steps
+Push image
 deploy image
